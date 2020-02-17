@@ -1,0 +1,102 @@
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.HiTechSystemForm.resources
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.LoginForm.resources
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\C#\Hi-Tech Order Management System\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.HiTechSystemForm.resources
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.GUI.LoginForm.resources
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\C#\Hi-Tech Order Management System - Copy\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.HiTechSystemForm.resources
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.GUI.LoginForm.resources
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.HiTechSystemForm.resources
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.GUI.LoginForm.resources
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+D:\VisualStudio\EventProg\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.HiTechSystemForm.resources
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.GUI.LoginForm.resources
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\bijuj\Google Drive\Lasalle\Hi-Tech Order Management System V2\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.HiTechSystemForm.resources
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.GUI.LoginForm.resources
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Users\bijuj\Desktop\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe.config
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.exe
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\Hi-Tech Order Management System.pdb
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.dll
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.xml
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csprojAssemblyReference.cache
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.HiTechSystemForm.resources
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_System.GUI.LoginForm.resources
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi_Tech_Order_Management_System.Properties.Resources.resources
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.GenerateResource.cache
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CoreCompileInputs.cache
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.csproj.CopyComplete
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.exe
+C:\Hi-Tech Order Management System V2\Hi-Tech Order Management System\obj\Debug\Hi-Tech Order Management System.pdb
